@@ -1,0 +1,111 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/drawable/cube_clock_minus.png
+SHA1-Digest: JVxxD7HfATtDvQi7SNaMlcGMdFo=
+
+Name: res/drawable/cube_clock_number.png
+SHA1-Digest: cCy2UMB1muhSjEn1fRkRLb9Mk9U=
+
+Name: res/layout/activity_main_shell_summary.xml
+SHA1-Digest: 7KbDY61AcYFSZYzkTu9ookSr+/g=
+
+Name: res/drawable-xxhdpi/tsf_text_summary.png
+SHA1-Digest: tonpq+mtZwAHMzZDW7aIci4QAGM=
+
+Name: res/drawable/cube_clock_am_pm.png
+SHA1-Digest: Sv65BRcTDZ3F3rfxZnfbBjJprsg=
+
+Name: res/drawable/cube_clock_color.png
+SHA1-Digest: 9A/koItLKe5kEVs6bxwKUD+rhkg=
+
+Name: res/drawable-hdpi/under.png
+SHA1-Digest: U8VLBmTWlWh5GkfOHZqbyQiscwY=
+
+Name: res/drawable/cube_clock_setting.png
+SHA1-Digest: G+yuXwym3KDu5/AJjDhOkahPMDI=
+
+Name: res/drawable/cube_clock_shadow.png
+SHA1-Digest: G9IvgDsipWTjDfRT0Lz1/fKZzro=
+
+Name: resources.arsc
+SHA1-Digest: 1q/SL6UHPvIYNuRSRm4mKdpnEZ8=
+
+Name: res/drawable-xxhdpi/ic_launcher_play_store.png
+SHA1-Digest: QRrCPtoxzi93GiyOU6Pubwl3K+k=
+
+Name: res/drawable/cube_clock_widget_setting_bg.png
+SHA1-Digest: RhIOqZcZR/NRi6WeEushWar7Zxc=
+
+Name: AndroidManifest.xml
+SHA1-Digest: p0hyAcms79x2L/OrBKB0MZ3Avfs=
+
+Name: res/drawable/video_text_bg.xml
+SHA1-Digest: b7a3LFYROJCwtC8tMxZChExghaI=
+
+Name: res/drawable-xxhdpi/launcher_text_summary_en.png
+SHA1-Digest: N6kG0LsFM75ysnkHoa7BvdfOi44=
+
+Name: res/drawable-hdpi/close.png
+SHA1-Digest: PLdti64Cjj2bW44FX8y2NYBEAoY=
+
+Name: res/drawable-xxhdpi/tsf_shell_logo_light_summary.png
+SHA1-Digest: 5MiXE8Et/3STkPpRvi+lOSKnP1g=
+
+Name: res/drawable/cube_clock_week.png
+SHA1-Digest: T6kWacsGlVQPnlUigy4AHukaBY4=
+
+Name: res/drawable-xxhdpi/ic_launcher_facebook.png
+SHA1-Digest: stgqG1k3ZGYTQV5kY6t9EuVgi/I=
+
+Name: res/drawable-xxhdpi/launcher_text_summary_cn.png
+SHA1-Digest: btW+sZjGeO/+usw/XpUqNCUKtEU=
+
+Name: res/drawable-xxhdpi/ic_launcher_tsf.png
+SHA1-Digest: Ucip70FwIaUvv6+O0XZJrVODnjc=
+
+Name: res/drawable-hdpi/top.png
+SHA1-Digest: wsEZbdD96vrEuxm30ZnHvGHERqI=
+
+Name: res/drawable-hdpi/dialog_full_holo_dark.9.png
+SHA1-Digest: oGt/uFqtDoMsMTZkZHhur8/3+Nk=
+
+Name: res/drawable/cube_clock_icon.png
+SHA1-Digest: qallvZTJOmaMVTSv5Bul0d/4hBo=
+
+Name: res/raw/robot.png
+SHA1-Digest: Zq9eE9keT9/+vDWZ/DYfiUDGzXY=
+
+Name: res/layout/color_setting.xml
+SHA1-Digest: ovHaQYyzvCXE98aIhfd1eEEjeTk=
+
+Name: classes.dex
+SHA1-Digest: SoDcXgVgT4GCiR4R91VT8fDKCY8=
+
+Name: res/drawable/cube_clock_light.png
+SHA1-Digest: Di9OIDKiHKoxdaHfTI4TB7MeLgQ=
+
+Name: res/raw/preview_color_hd.mp4
+SHA1-Digest: 8a4w7kcHzckjuj+Q7HxAjXp8hns=
+
+Name: res/layout/activity_main_widget_summary.xml
+SHA1-Digest: H0V5aOmUmfY6I41rFdH06KMo1to=
+
+Name: res/drawable/cube_clock_plus.png
+SHA1-Digest: QMDifgc6TVDPoflrKeTr0PBv1rY=
+
+Name: res/layout/activity_video_layout.xml
+SHA1-Digest: a5kVgFNc1WPmaoyEgG0DfEnUNFY=
+
+Name: res/drawable-xxhdpi/tsf_text_title.png
+SHA1-Digest: jFHoOVpq3Wbh04+ZssbcZcI73mQ=
+
+Name: res/drawable-xxhdpi/tsf_shell_logo_summary.png
+SHA1-Digest: WVQh6rFobB3AI+FVZpEGSPmuB3M=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: cHfaSEkTRnpKFbas1nneYFLs3GM=
+
+Name: res/layout/mainscreen.xml
+SHA1-Digest: wb/noG6CwbWxWzsqUb2V+HwVeVs=
+

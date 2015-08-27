@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="-1" android:layout_height="-1">
+    <include layout="@layout/activity_video_layout" />
+    <LinearLayout android:orientation="0" android:id="@id/LinearLayout1" android:layout_width="-1" android:layout_height="-2" android:layout_marginBottom="55dp" android:layout_alignParentBottom="true">
+        <ImageView android:id="@id/imageView1" android:layout_width="-2" android:layout_height="-2" android:layout_margin="5dp" android:src="@drawable/ic_launcher_tsf" />
+        <LinearLayout android:gravity="13" android:layout_gravity="10" android:orientation="1" android:layout_width="-2" android:layout_height="-2" android:layout_weight="1.0">
+            <ImageView android:id="@id/imageView2" android:layout_width="-2" android:layout_height="-2" android:layout_margin="2dp" android:src="@drawable/tsf_text_title" />
+            <ImageView android:id="@id/imageView3" android:layout_width="-2" android:layout_height="-2" android:layout_margin="2dp" android:src="@drawable/launcher_text_summary_en" />
+        </LinearLayout>
+        <ImageView android:layout_gravity="10" android:id="@id/imageView4" android:layout_width="40dp" android:layout_height="40dp" android:layout_marginLeft="10dp" android:src="@drawable/ic_launcher_play_store" />
+        <ImageView android:layout_gravity="10" android:id="@id/imageView5" android:layout_width="40dp" android:layout_height="40dp" android:layout_marginRight="10dp" android:src="@drawable/ic_launcher_facebook" />
+    </LinearLayout>
+    <TextView android:textColor="#ddbbbbbb" android:id="@id/textView1" android:layout_width="-2" android:layout_height="-2" android:text="@string/need_tsflauncher" android:layout_above="@id/LinearLayout1" android:layout_centerHorizontal="true" />
+</RelativeLayout>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="LinearLayout2">false</item>
+    <item type="id" name="picker">false</item>
+    <item type="id" name="svbar">false</item>
+    <item type="id" name="opacitybar">false</item>
+    <item type="id" name="button1">false</item>
+    <item type="id" name="textView1">false</item>
+    <item type="id" name="linearlayer1">false</item>
+    <item type="id" name="imageView3">false</item>
+    <item type="id" name="imageView4">false</item>
+    <item type="id" name="relativeLayout1">false</item>
+    <item type="id" name="imageView1">false</item>
+    <item type="id" name="imageView2">false</item>
+    <item type="id" name="LinearLayout1">false</item>
+    <item type="id" name="imageView5">false</item>
+    <item type="id" name="AbsoluteLayout1">false</item>
+    <item type="id" name="videoView1">false</item>
+    <item type="id" name="framelayout1">false</item>
+    <item type="id" name="relativeLayout2">false</item>
+    <item type="id" name="relativeLayout5">false</item>
+    <item type="id" name="linearLayout3">false</item>
+    <item type="id" name="close">false</item>
+</resources>

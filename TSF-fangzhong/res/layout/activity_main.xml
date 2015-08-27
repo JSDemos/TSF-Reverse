@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout app:orientation="1" app:id="@id/LinearLayout2" app:background="#222" app:layout_width="-1" app:layout_height="-1">
+    <com.larswerkman.holocolorpicker.ColorPicker app:layout_gravity="11" app:id="@id/picker" app:layout_width="-2" app:layout_height="-2" />
+    <com.larswerkman.holocolorpicker.SVBar app:layout_gravity="11" app:id="@id/svbar" app:layout_width="322dp" app:layout_height="112dp" app:layout_margin="8dp" />
+    <com.larswerkman.holocolorpicker.OpacityBar app:layout_gravity="11" app:id="@id/opacitybar" app:layout_width="322dp" app:layout_height="112dp" app:layout_margin="8dp" />
+    <LinearLayout app:layout_width="-1" app:layout_height="-2" app:weightSum="2.0">
+        <Button app:id="@id/button1" app:layout_width="-2" app:layout_height="-2" app:text="Change Color" app:layout_weight="1.0" />
+        <TextView app:textSize="20sp" app:textColor="0x106000b" app:id="@id/textView1" app:layout_width="-2" app:layout_height="-2" app:text="Text Color" app:layout_weight="1.0" />
+    </LinearLayout>
+</LinearLayout>

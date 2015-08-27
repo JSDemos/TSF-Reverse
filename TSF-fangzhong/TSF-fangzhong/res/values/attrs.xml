@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="color_wheel_radius" format="dimension" />
+    <attr name="color_wheel_thickness" format="dimension" />
+    <attr name="color_center_radius" format="dimension" />
+    <attr name="color_center_halo_radius" format="dimension" />
+    <attr name="color_pointer_radius" format="dimension" />
+    <attr name="color_pointer_halo_radius" format="dimension" />
+    <attr name="bar_thickness" format="dimension" />
+    <attr name="bar_length" format="dimension" />
+    <attr name="bar_pointer_radius" format="dimension" />
+    <attr name="bar_pointer_halo_radius" format="dimension" />
+</resources>

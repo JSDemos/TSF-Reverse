@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="1" android:background="#90666666" android:layout_width="-1" android:layout_height="-1"
+    <RelativeLayout android:id="@id/relativeLayout1" android:layout_width="320dp" android:layout_height="420dp" android:layout_centerHorizontal="true" android:layout_centerVertical="true"
+        <RelativeLayout android:id="@id/relativeLayout2" android:paddingLeft="10dp" android:paddingTop="50dp" android:paddingRight="10dp" android:paddingBottom="20dp" android:layout_width="-1" android:layout_height="-1"
+            <RelativeLayout android:background="#d9dfdf" android:layout_width="-1" android:layout_height="-1" android:layout_alignParentLeft="true" android:layout_alignParentTop="true">
+                <com.larswerkman.holocolorpicker.ColorPicker android:layout_gravity="11" android:id="@id/picker" android:layout_width="-2" android:layout_height="-2" android:layout_centerInParent="true" />
+            </RelativeLayout>
+        </RelativeLayout>
+        <RelativeLayout android:orientation="0" android:id="@id/relativeLayout5" android:background="@drawable/top" android:layout_width="-1" android:layout_height="56dp" android:layout_alignParentLeft="true" android:layout_alignParentTop="true">
+            <TextView android:textSize="18dp" android:textStyle="1" android:textColor="#ffcccccc" android:id="@id/textView1" android:layout_width="-2" android:layout_height="-2" android:text="Setting" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+        </RelativeLayout>
+        <LinearLayout android:orientation="0" android:id="@id/linearLayout3" android:background="@drawable/under" android:paddingLeft="10dp" android:paddingRight="10dp" android:layout_width="-2" android:layout_height="-2" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" />
+        <ImageButton android:id="@id/close" android:background="@drawable/close" android:layout_width="-2" android:layout_height="-2" android:layout_alignParentRight="true" />
+    </RelativeLayout>
+</RelativeLayout>

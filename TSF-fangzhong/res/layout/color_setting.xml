@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="#0000" android:layout_width="-1" android:layout_height="-1"
+    <RelativeLayout android:id="@id/relativeLayout1" android:background="@drawable/dialog_full_holo_dark" android:layout_width="320dp" android:layout_height="320dp" android:layout_centerHorizontal="true" android:layout_centerVertical="true">
+        <com.larswerkman.holocolorpicker.ColorPicker android:layout_gravity="11" android:id="@id/picker" android:layout_width="-2" android:layout_height="-2" android:layout_centerInParent="true" />
+    </RelativeLayout>
+</RelativeLayout>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="video_app_name">ShellSummary</string>
+    <string name="need_tsflauncher">小部件为TSF Launcher独家使用</string>
+    <string name="app_name">时钟</string>
+</resources>

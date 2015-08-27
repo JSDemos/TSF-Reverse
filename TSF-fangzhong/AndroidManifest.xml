@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:"http://schemas.android.com/apk/res/android" android:versionCode="5" android:versionName="1.3" package="com.tsf.shell.widget.cubeclock">
+    <uses-sdk android:minSdkVersion="8" android:targetSdkVersion="21" />
+    <application android:theme="@style/AppTheme" android:label="@string/app_name" android:icon="@drawable/cube_clock_icon" android:allowBackup="true">
+        <activity android:label="@string/app_name" android:name=".WidgetMain">
+            <intent-filter>
+                <action android:name="com.tsf.shell.3dwidget" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@*android:style/Theme.Translucent.NoTitleBar" android:label="colorpicker" android:name="com.larswerkman.holocolorpicker.Main" android:clearTaskOnLaunch="true" android:stateNotNeeded="true" android:launchMode="singleTask" android:windowSoftInputMode="20">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+        </activity>
+        <activity android:label="colorpicker" android:name="net.margaritov.preference.colorpicker.TestActivity" android:clearTaskOnLaunch="true" android:stateNotNeeded="true" android:launchMode="singleTask" android:windowSoftInputMode="20">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+        </activity>
+        <provider android:name="com.tsf.shell.widget.cubeclock.provider.SettingProvider" android:exported="true" android:authorities="com.tsf.shell.widget.cubeclock.provider" />
+        <activity android:theme="@style/VideoTheme_Translucent" android:name="com.tsf.shell.plugin.summary.WidgetSummaryActivity" android:excludeFromRecents="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+</manifest>

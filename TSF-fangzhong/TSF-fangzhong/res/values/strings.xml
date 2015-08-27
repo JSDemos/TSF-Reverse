@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="video_app_name">ShellSummary</string>
+    <string name="need_tsflauncher">This widget is exclusively for TSF Launcher.</string>
+    <string name="category">tool</string>
+    <string name="icon">cube_clock_icon</string>
+    <string name="app_name">CubeClock</string>
+</resources>
